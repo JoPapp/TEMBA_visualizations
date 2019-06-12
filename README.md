@@ -1,2 +1,0 @@
-# TEMBA_visualizations
-TEMBA
